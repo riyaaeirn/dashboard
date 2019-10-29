@@ -1,0 +1,87 @@
+{
+  "groups": [
+    {
+      "name": "resturl",
+      "type": "com.example.demo.RestURLData",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "server",
+      "type": "com.example.demo.ServerProperties",
+      "sourceType": "com.example.demo.ServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "resturl.app-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.art-sel",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.art-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.cpu-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.epm-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.expm-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.hecpm-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.mem-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.top-consumer-sel",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.top-consumer-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.vol-sel",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "resturl.vol-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.RestURLData"
+    },
+    {
+      "name": "server.cluster",
+      "type": "java.util.List<com.example.demo.ServerProperties$Cluster>",
+      "sourceType": "com.example.demo.ServerProperties"
+    },
+    {
+      "name": "server.email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.ServerProperties"
+    }
+  ],
+  "hints": []
+}
